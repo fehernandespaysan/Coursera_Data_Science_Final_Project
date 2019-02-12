@@ -8,5 +8,4 @@ The goal is to create a word predictor based on the user input.
 
 ## Documents
 
-(PDF)
-Here you will find the data cleansing and data exploratory analysis for this project.
+Capstone Project - Milestone Report.pdf (PDF) - Here you will find the data cleansing and data exploratory analysis for this project.
