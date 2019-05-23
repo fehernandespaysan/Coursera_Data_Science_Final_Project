@@ -4,6 +4,8 @@ This repository contains the final project delivered for the Data Science Specia
 
 This is a Natural Language Processing project, the goal is to create a next word predictor based on the user input.
 
+Below you will find additional information on the project and link to the project presentation and app.
+
 ## Documents
 
 ***Capstone Project - Milestone Report.pdf (PDF)*** - Here you will find the data cleansing and data exploratory analysis for this project.
